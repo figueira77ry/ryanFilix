@@ -6,16 +6,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
  <iframe width="560" height="315" src="https://www.youtube.com/embed/of45dGLM6Ro?si=byesfT6fcAxhpNJY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <title>Alura</title>
+    <title>ryanFilix</title>
 </head>
 
 <body>
-    <header>Alura</header>
+    <header>ryanFilix</header>
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>Tipo Hashirama</h1>
-            <p>#Hashirama</p>
+            <h1>CostaGold - N.A.D.A.B.O.M. [part. 2] (ft Don L & Luccas Carlos) [prod. Lotto]</h1>
+            <p>#CostaGold</p>
         </div>
 
         <div>
