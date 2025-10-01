@@ -30,20 +30,20 @@
     <section class="categoria">
         <h2>Outras musicas</h2>
         <div class="categoria-videos">
-            <a href="https://www.youtube.com/watch?v=wCMzj9Gzyt0">
-                <img src="https://img.youtube.com/vi/wCMzj9Gzyt0/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=ugOmV9yBoNo">
+                <img src="https://img.youtube.com/vi/ugOmV9yBoNo/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=sSLrBuDWnOw">
-                <img src="https://img.youtube.com/vi/sSLrBuDWnOw/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=V3H8ZM6nC_4">
+                <img src="https://img.youtube.com/vi/V3H8ZM6nC_4/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=ZAa0hJKXwZU">
-                <img src="https://img.youtube.com/vi/ZAa0hJKXwZU/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=TXnbX3GaGVs">
+                <img src="https://img.youtube.com/vi/TXnbX3GaGVs/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=9HqzHYmTnAA">
-                <img src="https://img.youtube.com/vi/9HqzHYmTnAA/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=watch?v=3JeHfhW9uWU">
+                <img src="https://img.youtube.com/vi/watch?v=3JeHfhW9uWU/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Gne4T4B3zhg">
-                <img src="https://img.youtube.com/vi/Gne4T4B3zhg/maxresdefault.jpg" />
+            <a href="https://www.youtube.com/watch?v=dgn0egjhDJs">
+                <img src="https://img.youtube.com/vi/dgn0egjhDJs/maxresdefault.jpg" />
             </a>
         </div>
     </section>
